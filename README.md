@@ -6,9 +6,9 @@ Contributions/suggestions are welcome for all repositories.
 
 ## Technologies
 
-| 🌴 Big | 🌻 Small | 🌱 Learning | 🍂 Fading |
-| :--- | :--- | :--- | :--- |
-| C#<br>JavaScript<br>Power BI | HTML<br>CSS<br>Regular Expressions<br>Excel Formulas<br>MySQL<br>VBA | Python | Aurora Engine<br>C++<br>Java<br>PHP<br>Processing<br>VB6 |
+| 🌌 Big | 🌍 Small | 👽 Obscure | 📡 Learning | 🕳️ Fading |
+| :--- | :--- | :--- | :--- | :--- |
+| C#<br>JavaScript<br>Power BI | CSS<br>Excel Formulas<br>HTML<br>Inkscape<br>MySQL<br>Regular Expressions<br>VBA | E-Tabs<br>MarketingTracker | Python | Aurora Engine<br>C++<br>Java<br>PHP<br>Processing<br>VB6 |
 
 <!--
 **Robson/robson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
