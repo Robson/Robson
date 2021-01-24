@@ -6,7 +6,7 @@ I make interactive webpages to visualise interesting things. You can see them at
 
 Contributions/suggestions are welcome for all repositories.
 
-## Current Projects
+## Current Project
 
 * <a href="https://github.com/Robson/Yogscast-YouTube-Statistics">Yogscast YouTube Statistics</a>. Going live on January 31st. 
 
@@ -35,23 +35,15 @@ Contributions/suggestions are welcome for all repositories.
 </th>
 </tr>
 <tr valign="top">
-<td>·C#<br>·JavaScript<br>·Power BI</td>
-<td>·CSS<br>·Excel Formulas<br>·HTML<br>·Inkscape<br>·MySQL<br>·Regular Expressions<br>·VBA</td>
-<td>·E-Tabs<br>·MarketingTracker</td>
-<td>·Python</td>
-<td>·Aurora Engine<br>·C++<br>·Java<br>·PHP<br>·Processing<br>·VB6</td>
+<td>C#<br>JavaScript<br>Power BI</td>
+<td>CSS<br>Excel Formulas<br>HTML<br>Inkscape<br>MySQL<br>Regular Expressions<br>VBA</td>
+<td>E-Tabs<br>MarketingTracker</td>
+<td>Python</td>
+<td>Aurora Engine<br>C++<br>Java<br>PHP<br>Processing<br>VB6</td>
 </tr>
 </table>    
 
 <!--
-| 🌌 Complex | ☄️ Simple | 👽 Obscure | 🚀 Learning | 🕳️ Fading |
-| :--- | :--- | :--- | :--- | :--- |
-| C#<br>JavaScript<br>Power BI | CSS<br>Excel Formulas<br>HTML<br>Inkscape<br>MySQL<br>Regular Expressions<br>VBA | E-Tabs<br>MarketingTracker | Python | Aurora Engine<br>C++<br>Java<br>PHP<br>Processing<br>VB6 |
--->
-
-<!--
-**Robson/robson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
