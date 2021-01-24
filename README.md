@@ -12,6 +12,56 @@ Contributions/suggestions are welcome for all repositories.
 
 ## Experience
 
+<table><tr>
+<th>🌌 Complex</th>
+<th>
+  
+🌌 Complex
+
+</th>
+<th>
+  
+# 🌌 Complex
+
+</th>
+<th>
+  
+## 🌌 Complex
+
+</th>
+<th>
+  
+### 🌌 Complex
+
+</th>
+<th>
+  
+#### 🌌 Complex
+
+</th>
+<th>
+  
+##### 🌌 Complex
+
+</th>
+<th>
+  
+###### 🌌 Complex
+
+</th>
+</tr>
+<tr valign="top">
+<td>C#<br>JavaScript<br>Power BI</td>
+<td>CSS<br>Excel Formulas<br>HTML<br>Inkscape<br>MySQL<br>Regular Expressions<br>VBA</td>
+<td>E-Tabs<br>MarketingTracker</td>
+<td>Python</td>
+<td>CSS<br>Excel Formulas<br>HTML<br>Inkscape<br>MySQL<br>Regular Expressions<br>VBA</td>
+<td>E-Tabs<br>MarketingTracker</td>
+<td>E-Tabs<br>MarketingTracker</td>
+<td>Python</td>
+</tr>
+</table>    
+
 | 🌌 Complex | ☄️ Simple | 👽 Obscure | 🚀 Learning | 🕳️ Fading |
 | :--- | :--- | :--- | :--- | :--- |
 | C#<br>JavaScript<br>Power BI | CSS<br>Excel Formulas<br>HTML<br>Inkscape<br>MySQL<br>Regular Expressions<br>VBA | E-Tabs<br>MarketingTracker | Python | Aurora Engine<br>C++<br>Java<br>PHP<br>Processing<br>VB6 |
