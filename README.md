@@ -1,42 +1,14 @@
 ## Hello
 
-I mostly make interactive webpages to visualise stuff. You can see them at my site: https://robson.plus
+I make interactive webpages to visualise interesting things. You can see them at my site: https://robson.plus
 
 Contributions/suggestions are welcome for all repositories.
 
 ## Technology
 
-### 🌹 Primary
-
-I am most proficient in:
-
- * C#
- * JavaScript
- * Power BI
- * VBA
- * Obscure market research technologies
-
-and these smaller/simpler technologies:
-
- * HTML
- * CSS
- * Regular Expressions
- * Excel Formulas
- * MySQL
-
-### 🌱 Learning
-
- * Python
-
-### 🥀 Fading
-
-I used these extensively in the past, but now I've moved on from them:
-
- * Aurora Engine
- * C++
- * Java
- * PHP
- * Processing
+| 🌴 Big | 🌻 Small | 🌱 Learning | 🍂 Fading |
+| :--- | :--- | :--- | :--- |
+| C#<br>JavaScript<br>Power BI | HTML<br>CSS<br>Regular Expressions<br>Excel Formulas<br>MySQL<br>VBA | Python | Aurora Engine<br>C++<br>Java<br>PHP<br>Processing<br>VB6 |
 
 <!--
 **Robson/robson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
