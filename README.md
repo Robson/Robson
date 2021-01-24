@@ -1,4 +1,4 @@
-## Hello
+## Hi
 
 I make interactive webpages to visualise interesting things. You can see them at my site: https://robson.plus
 
@@ -6,7 +6,7 @@ Contributions/suggestions are welcome for all repositories.
 
 ## Technologies
 
-| 🌌 Big | 🌍 Small | 👽 Obscure | 📡 Learning | 🕳️ Fading |
+| 🌌 Major | 🌍 Minor | 👽 Obscure | 📡 Learning | 🕳️ Fading |
 | :--- | :--- | :--- | :--- | :--- |
 | C#<br>JavaScript<br>Power BI | CSS<br>Excel Formulas<br>HTML<br>Inkscape<br>MySQL<br>Regular Expressions<br>VBA | E-Tabs<br>MarketingTracker | Python | Aurora Engine<br>C++<br>Java<br>PHP<br>Processing<br>VB6 |
 
