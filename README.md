@@ -35,11 +35,11 @@ Contributions/suggestions are welcome for all repositories.
 </th>
 </tr>
 <tr valign="top">
-<td bgcolor="#fff">C#<br>JavaScript<br>Power BI</td>
-<td bgcolor="#fff">CSS<br>Excel Formulas<br>HTML<br>Inkscape<br>MySQL<br>Regular Expressions<br>VBA</td>
-<td bgcolor="#fff">E-Tabs<br>MarketingTracker</td>
-<td bgcolor="#fff">Python</td>
-<td bgcolor="#fff">Aurora Engine<br>C++<br>Java<br>PHP<br>Processing<br>VB6</td>
+<td>·C#<br>·JavaScript<br>·Power BI</td>
+<td>·CSS<br>·Excel Formulas<br>·HTML<br>·Inkscape<br>·MySQL<br>·Regular Expressions<br>·VBA</td>
+<td>·E-Tabs<br>·MarketingTracker</td>
+<td>·Python</td>
+<td>·Aurora Engine<br>·C++<br>·Java<br>·PHP<br>·Processing<br>·VB6</td>
 </tr>
 </table>    
 
