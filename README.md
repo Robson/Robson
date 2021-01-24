@@ -4,7 +4,7 @@ I make interactive webpages to visualise interesting things. You can see them at
 
 Contributions/suggestions are welcome for all repositories.
 
-## Technology
+## Technologies
 
 | 🌴 Big | 🌻 Small | 🌱 Learning | 🍂 Fading |
 | :--- | :--- | :--- | :--- |
