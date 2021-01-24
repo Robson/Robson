@@ -8,7 +8,6 @@ Contributions/suggestions are welcome for all repositories.
 
 ## Current Projects
 
-* My site.
 * <a href="https://github.com/Robson/Yogscast-YouTube-Statistics">Yogscast YouTube Statistics</a>. Going live on January 31st. 
 
 ## Experience
