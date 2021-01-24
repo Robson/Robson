@@ -2,7 +2,7 @@
 
 Welcome to my space!
 
-I make interactive webpages to visualise interesting things. You can see them at my site: https://robson.plus
+I make interactive webpages to visualise interesting things. You can see them at https://robson.plus
 
 Contributions/suggestions are welcome for all repositories.
 
