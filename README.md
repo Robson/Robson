@@ -12,41 +12,25 @@ Contributions/suggestions are welcome for all repositories.
 
 ## Experience
 
-<table><tr>
-<th>🌌 Complex</th>
-<th>
-  
-🌌 Complex
-
-</th>
-<th>
-  
-# 🌌 Complex
-
-</th>
-<th>
-  
-## 🌌 Complex
-
-</th>
-<th>
+<table><tr><th align="left">
   
 ### 🌌 Complex
 
-</th>
-<th>
+</th><th align="left">
   
-#### 🌌 Complex
+### ☄️ Simple
 
-</th>
-<th>
+</th><th align="left">
   
-##### 🌌 Complex
+### 👽 Obscure
 
-</th>
-<th>
+</th><th align="left">
   
-###### 🌌 Complex
+### 🚀 Learning
+
+</th><th align="left">
+  
+### 🕳️ Fading
 
 </th>
 </tr>
@@ -55,16 +39,15 @@ Contributions/suggestions are welcome for all repositories.
 <td>CSS<br>Excel Formulas<br>HTML<br>Inkscape<br>MySQL<br>Regular Expressions<br>VBA</td>
 <td>E-Tabs<br>MarketingTracker</td>
 <td>Python</td>
-<td>CSS<br>Excel Formulas<br>HTML<br>Inkscape<br>MySQL<br>Regular Expressions<br>VBA</td>
-<td>E-Tabs<br>MarketingTracker</td>
-<td>E-Tabs<br>MarketingTracker</td>
-<td>Python</td>
+<td>Aurora Engine<br>C++<br>Java<br>PHP<br>Processing<br>VB6</td>
 </tr>
 </table>    
 
+<!--
 | 🌌 Complex | ☄️ Simple | 👽 Obscure | 🚀 Learning | 🕳️ Fading |
 | :--- | :--- | :--- | :--- | :--- |
 | C#<br>JavaScript<br>Power BI | CSS<br>Excel Formulas<br>HTML<br>Inkscape<br>MySQL<br>Regular Expressions<br>VBA | E-Tabs<br>MarketingTracker | Python | Aurora Engine<br>C++<br>Java<br>PHP<br>Processing<br>VB6 |
+-->
 
 <!--
 **Robson/robson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
