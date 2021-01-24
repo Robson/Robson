@@ -14,23 +14,23 @@ Contributions/suggestions are welcome for all repositories.
 
 <table><tr><th align="left">
   
-#### 🌌 Complex
+### 🌌 Complex
 
 </th><th align="left">
   
-#### ☄️ Simple
+### ☄️ Simple
 
 </th><th align="left">
   
-#### 👽 Obscure
+### 👽 Obscure
 
 </th><th align="left">
   
-#### 🚀 Learning
+### 🚀 Learning
 
 </th><th align="left">
   
-#### 🕳️ Fading
+### 🕳️ Fading
 
 </th>
 </tr>
