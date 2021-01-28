@@ -6,9 +6,10 @@ I make interactive webpages to visualise interesting things. You can see them at
 
 Contributions/suggestions are welcome for all repositories.
 
-## Current Project
+## Current Projects
 
 * <a href="https://github.com/Robson/Yogscast-YouTube-Statistics">Yogscast YouTube Statistics</a>. Going live on January 31st. 
+* Minecraft *Glazed Terracotta* Pattern Generator.
 
 ## Experience
 
