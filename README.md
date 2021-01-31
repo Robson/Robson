@@ -6,11 +6,16 @@ Contributions/suggestions are welcome for all repositories.
 
 ## Recent Updates
 
-* 2021-Jan-30: Yogscast YouTube Statistics is now live! <a href="https://robson.plus/yogscast-youtube-statistics">Live version</a>. <a href="https://github.com/Robson/Yogscast-YouTube-Statistics">Repository</a>.
+* January, 2021
+  * 30th: Yogscast YouTube Statistics <a href="https://robson.plus/yogscast-youtube-statistics">is now live</a>. (<a href="https://github.com/Robson/Yogscast-YouTube-Statistics">Repository</a>)
+  * 17th: Space Generator <a href="https://robson.plus/space-generator/">is now live</a>. (<a href="https://github.com/Robson/Space-Generator">Repository</a>)
+  * 17th: White Noise Image Generator <a href="https://robson.plus/white-noise-image-generator/">is now live</a>. (<a href="https://github.com/Robson/White-Noise-Image-Generator">Repository</a>)
+  * 15th: Film Franchise Ratings <a href="https://robson.plus/film-franchise-ratings/">is now live</a>. (<a href="https://github.com/Robson/Film-Franchise-Ratings">Repository</a>)
 
 ## Current Projects
 
 * Minecraft *Glazed Terracotta* Pattern Generator.
+* Lots of small improvements to existing projects.
 
 ## Experience
 
