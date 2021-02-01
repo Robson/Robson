@@ -4,8 +4,10 @@ I make interactive webpages to visualise interesting things. You can see them at
 
 Contributions/suggestions are welcome for all repositories.
 
-## Recent Updates
+## Notable Recent Updates
 
+* February, 2021
+  * 15th: Added ~15 franchises to the Film Franchise Ratings (<a href="https://robson.plus/film-franchise-ratings/">Live Version</a>) (<a href="https://github.com/Robson/Film-Franchise-Ratings">Repository</a>)
 * January, 2021
   * 30th: Yogscast YouTube Statistics <a href="https://robson.plus/yogscast-youtube-statistics">is now live</a>. (<a href="https://github.com/Robson/Yogscast-YouTube-Statistics">Repository</a>)
   * 17th: Space Generator <a href="https://robson.plus/space-generator/">is now live</a>. (<a href="https://github.com/Robson/Space-Generator">Repository</a>)
