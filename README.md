@@ -16,7 +16,7 @@ Contributions/suggestions are welcome for all repositories.
 
 ## Current Projects
 
-* Minecraft *Glazed Terracotta* Pattern Generator.
+* Minecraft *Glazed Terracotta* Pattern Generator. (<a href="https://github.com/Robson/Minecraft-Glazed-Terracotta-Pattern-Generator">Repository</a>)
 * Lots of small improvements to existing projects.
 
 ## Experience
