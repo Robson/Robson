@@ -6,17 +6,20 @@ Contributions/suggestions are welcome for all repositories.
 
 ## Notable Recent Updates
 
-* February, 2021
-  * 1st: Added ~15 franchises to the Film Franchise Ratings (<a href="https://robson.plus/film-franchise-ratings/">Live Version</a>) (<a href="https://github.com/Robson/Film-Franchise-Ratings">Repository</a>)
-* January, 2021
-  * 30th: Yogscast YouTube Statistics <a href="https://robson.plus/yogscast-youtube-statistics">is now live</a>. (<a href="https://github.com/Robson/Yogscast-YouTube-Statistics">Repository</a>)
-  * 17th: Space Generator <a href="https://robson.plus/space-generator/">is now live</a>. (<a href="https://github.com/Robson/Space-Generator">Repository</a>)
-  * 17th: White Noise Image Generator <a href="https://robson.plus/white-noise-image-generator/">is now live</a>. (<a href="https://github.com/Robson/White-Noise-Image-Generator">Repository</a>)
+* 2021
+  * February
+    * 13th: Minecraft *Glazed Terracotta* Pattern Generator <a href="https://robson.plus/minecraft-glazed-terracotta-pattern-generator/">is now live</a>. (<a href="https://github.com/Robson/Minecraft-Glazed-Terracotta-Pattern-Generator">Repository</a>)
+    * 1st: Added ~15 franchises to the Film Franchise Ratings (<a href="https://robson.plus/film-franchise-ratings/">Live Version</a>) (<a href="https://github.com/Robson/Film-Franchise-Ratings">Repository</a>)
+  * January
+    * 30th: Yogscast YouTube Statistics <a href="https://robson.plus/yogscast-youtube-statistics">is now live</a>. (<a href="https://github.com/Robson/Yogscast-YouTube-Statistics">Repository</a>)
+    * 17th: Space Generator <a href="https://robson.plus/space-generator/">is now live</a>. (<a href="https://github.com/Robson/Space-Generator">Repository</a>)
+    * 17th: White Noise Image Generator <a href="https://robson.plus/white-noise-image-generator/">is now live</a>. (<a href="https://github.com/Robson/White-Noise-Image-Generator">Repository</a>)
 
+<!--
 ## Current Projects
 
-* Minecraft *Glazed Terracotta* Pattern Generator. (<a href="https://github.com/Robson/Minecraft-Glazed-Terracotta-Pattern-Generator">Repository</a>)
 * Lots of small improvements to existing projects.
+-->
 
 ## Experience
 
