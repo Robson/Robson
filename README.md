@@ -2,6 +2,7 @@ Welcome to my space! I make interactive webpages to visualise interesting things
 
 Contributions/suggestions are welcome for all repositories.
 
+<!--
 ## Notable Recent Updates
 
 * 2021
@@ -13,7 +14,6 @@ Contributions/suggestions are welcome for all repositories.
     * 17th: Space Generator <a href="https://robson.plus/space-generator/">is now live</a>. (<a href="https://github.com/Robson/Space-Generator">Repository</a>)
     * 17th: White Noise Image Generator <a href="https://robson.plus/white-noise-image-generator/">is now live</a>. (<a href="https://github.com/Robson/White-Noise-Image-Generator">Repository</a>)
 
-<!--
 ## Current Projects
 
 * Lots of small improvements to existing projects.
