@@ -46,7 +46,7 @@ Contributions/suggestions are welcome for all repositories.
 <tr valign="top">
 <td>C#<br>JavaScript<br>Power BI</td>
 <td>CSS<br>Excel Formulas<br>HTML<br>Inkscape<br>MySQL<br>Regular Expressions<br>VBA</td>
-<td>E-Tabs<br>MarketingTracker</td>
+<td>E-Tabs Enterprise<br>MarketingTracker</td>
 <td>Python</td>
 <td>Aurora Engine<br>C++<br>PHP<br>Processing<br>VB6</td>
 </tr>
