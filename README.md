@@ -19,6 +19,7 @@ Contributions/suggestions are welcome for all repositories.
 * Lots of small improvements to existing projects.
 -->
 
+<!--
 ## Experience
 
 <table><tr><th align="left">
@@ -51,7 +52,7 @@ Contributions/suggestions are welcome for all repositories.
 <td>Aurora Engine<br>C++<br>PHP<br>Processing<br>VB6</td>
 </tr>
 </table>    
-
+-->
 <!--
 Here are some ideas to get you started:
 
